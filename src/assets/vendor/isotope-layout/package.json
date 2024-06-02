@@ -8,6 +8,7 @@
     "dist"
   ],
   "dependencies": {
+    "ev-emitter": "^2.1.2",
     "isotope-layout": "^3.0.6",
     "jquery": "^3.7.1",
     "desandro-matches-selector": "^2.0.0",
